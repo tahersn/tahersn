@@ -3,8 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahersn" alt="tahersn" /></a> </p>
 
-- 💬 Ask me about **ReactJS**
-
+- 💬 Ask me about **Web development**
+- 🔍 Looking for **end of studies intnernship**
+- 🎯 **Currently learning new skills**
+  
 - 📫 How to reach me **taher.snoussi@esprit.tn**
 
 <h3 align="left">Connect with me:</h3>
