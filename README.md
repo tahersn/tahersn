@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahersn" alt="tahersn" /></a> </p>
 
 - 💬 Ask me about **Web development**
-- 🔍 Looking for **end of studies intnernship**
+- 🔍 Looking for **a new position as a software engineer**
 - 🎯 **Currently learning new skills**
   
 - 📫 How to reach me **taher.snoussi@esprit.tn**
