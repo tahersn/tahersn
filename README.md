@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahersn" alt="tahersn" /></a> </p>
 
-- 💬 Ask me about **Web development**
-- 🔍 Looking for **a new position as a software engineer**
-- 🎯 **Currently learning new skills**
+- 💬 Ask me about **software engineering**
+- 🔍 About me **Software Engineer specialized in Web development**
+- 🎯 **Currently web developper at Dassault Systemes**
   
-- 📫 How to reach me **taher.snoussi@esprit.tn**
+- 📫 How to reach me **snoussi.taher.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
